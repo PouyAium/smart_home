@@ -1,5 +1,4 @@
-class FromScreens {
-  FromScreens._();
-  static const root = "/";
-
+class AppRoutes {
+  const AppRoutes._();
+  static const splash = "/";
 }

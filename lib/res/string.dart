@@ -1,4 +1,4 @@
-abstract class KeyString {
-  KeyString._();
-  static const appName = 'هوش بان';
+abstract class AppStrings {
+  const AppStrings._();
+  static const String appName = 'هوش بان';
 }
